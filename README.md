@@ -1,5 +1,15 @@
-# Aplicaciones_Web2_TP3
-trabajo practico numero 3 de  aplicaciones web 2
+# Aplicaciones_Web2_TP1
+
+## Descripción:
+
+API REST desarrollada con Node.js y Express para gestionar:
+
+
+---
+
+📁 Estructura del proyecto
+
+```
 
 trabajo_practico3
 ├── data
@@ -25,3 +35,8 @@ trabajo_practico3
 ├── index.js                ← servidor Express
 ├── package.json
 └── package-lock.json
+
+```
+
+
+

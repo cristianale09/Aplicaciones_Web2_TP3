@@ -111,6 +111,9 @@ http://localhost:3000
 
 
 🔗 Rutas principales
+
+```
+
 Productos
 •	/products 
 •	/products/:id 
@@ -118,6 +121,8 @@ Usuarios
 •	/users 
 •	/login 
 Las rutas pueden variar según la implementación en Express.
+
+```
 
 ---
 

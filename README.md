@@ -124,7 +124,6 @@ Productos
 Usuarios
 •	/users 
 •	/login 
-Las rutas pueden variar según la implementación en Express.
 
 ```
 

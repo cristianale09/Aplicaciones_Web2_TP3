@@ -7,12 +7,16 @@ El proyecto incluye un frontend estático y un backend básico con rutas para us
 
 # Tecnologías utilizadas
 
+```
+
 - Node.js
 - Express.js
 - HTML5
 - CSS3
 - JavaScript
 - JSON como base de datos simple
+
+```
 
 ---
 

@@ -59,6 +59,9 @@ trabajo_practico3
 ├── index.js
 ├── package.json
 └── package-lock.json
+
+```
+
 ---
 
 ⚙️ Instalación

@@ -29,12 +29,24 @@ trabajo_practico3
 │   │   |   ├── login.html
 │   │   |   └── auth.js
 |   |   └── pages
+│   │   |   ├── contacto.html
+│   │   |   ├── productos-gabinetes.html
+│   │   |   ├── productos-memoria.html
+│   │   |   ├── productos-motherboard.html
+│   │   |   ├── productos-placa_video.html
+│   │   |   ├── productos-teclado_mouse.html
+│   │   |   ├── productos.html
+│   │   |   ├── quienes.html
+│   │   |   ├── script-contact.js
+│   │   |   └── script.js
 │   ├── utils
 │   │   └── sessionStorage.controller.js
 │   └── styles
-│       └── styles.css
+│   │   ├── styles-login.css
+│   |   └── styles.css
 ├── routes                  ← backend, fuera de public
-│   └── user.routes.js
+│   ├── user.routes.js
+│   └── product.routes.js 
 ├── .gitignore
 ├── index.js                ← servidor Express
 ├── package.json

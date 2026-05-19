@@ -18,13 +18,17 @@ trabajo_practico3
 ├── node_modules
 ├── public                  ← todo esto es el frontend
 │   ├── assets
+|   |   ├── Icons
+|   |   ├── IMG
+|   |   └── Logo
 │   ├── pages
 │   │   ├── home
 │   │   │   ├── index.html
-│   │   │   └── index.js    ← el que saluda al usuario
-│   │   └── login
-│   │       ├── login.html
-│   │       └── auth.js     ← unificás los dos archivos de auth acá
+│   │   │   └── index.js
+│   │   ├── login
+│   │   |   ├── login.html
+│   │   |   └── auth.js
+|   |   └── pages
 │   ├── utils
 │   │   └── sessionStorage.controller.js
 │   └── styles
